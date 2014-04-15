@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\MyScripts\PlayerCollisions.js">
+    <Files>
+      <File FileName="Assets\MyScripts\BatteryCollect.js" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\RotateObject.js" Line="1" Column="1" />
+      <File FileName="Assets\MyScripts\PlayerCollisions.js" Line="26" Column="30" />
+      <File FileName="Assets\MyScripts\TextHints.js" Line="23" Column="15" />
+      <File FileName="E:\PlayerCollisions ch 9.js" Line="97" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
